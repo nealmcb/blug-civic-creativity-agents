@@ -38,6 +38,12 @@ Frame: I have lived through one “new network superpower” before.
 * It was new civic infrastructure
 * Dan Murray founds Rocky Mountain Internet Users Group
 
+???
+Back in 1993, the World Wide Web was still shiny and new. Most people had never clicked a link, and “getting local information online” often meant dialing into scattered bulletin boards one at a time. The Boulder Community Network was our attempt to make the Web a civic commons: city council agendas, library information, social services, watershed data, school projects, nonprofits, volunteer groups—all in one public place, with access through the library and community kiosks for people who didn’t have the Internet at home.
+
+In hindsight, BCN looks like an early sketch of the civic Internet we now take for granted. It helped Boulder learn that the Web was not just for universities and companies. It could be public infrastructure: a place where local knowledge, local government, local nonprofits, and local people could meet.
+
+
 ## 2022: AI Takes Off...
 * Huge opportunities.
 
@@ -197,19 +203,13 @@ What is your AI User Story?
 
 Set your sights high
 
+Dive in with new superpowers
+
 ???
 This is my “why.”
 
 ---
-# Dive in with new superpowers
-
-### Keep your taste.  
-### Keep your values.  
-### Bring friends.
-
----
 ## Slides
-http://neal.mcburnett.org/elections/blug-civic-creativity-agents/
+https://nealmcb.github.io/blug-civic-creativity-agents/
 
 ![QR Code](qr_code.png)
-## Questions?
