@@ -114,7 +114,7 @@ Good Linux / IETF habits still matter:
 open source, transparency, reproducibility, least privilege
 
 ---
-## Sandboxing for Infinite Lives
+## YOLO? No. Sandboxing for Security and Infinite Lives
 
 * Remote dev sandboxes
 * Fly.io Sprites
@@ -127,13 +127,26 @@ Possible demo if time:
 “YOLO? No — infinite lives.”
 
 ---
-## Decoded Futures / Possible
+## Possible podcast - Reid Hoffman
 
-* Creators getting compute and agent support
-* “Trade electricity for time”
-* People with ideas can prototype faster
-* Nonprofits, artists, civic builders, security folks
-* Small teams can now attempt bigger things
+Educational!
+
+Fun!
+
+Inspiring!
+
+---
+## Decoded Futures
+
+Tech:NYC Foundation helps AI-savvy volunteers help local nonprofits!
+
+* [Decoded Futures](https://www.decodedfutures.nyc/)
+* Slide decks:
+  * [Session 1](https://drive.google.com/file/d/1VYUy0xCmOC5QZKyvuoBGrZPiBssbkwjM/view?usp=drive_link)
+  * [Session 2](https://drive.google.com/file/d/1ud2UXrug9kVOoIl5yNdqm2jZpc6cKysq/view?usp=drive_link)
+  * [Session 3](https://drive.google.com/file/d/1JxuSeQLIKdzNq5kjX3T1Ga4NuNiuC64F/view?usp=drive_link)
+  * [Session 4](https://drive.google.com/file/d/18GhScbH4M0VnVj5TOkJKbP06GkKuia3C/view?usp=drive_link)
+
 
 ???
 Mention Possible podcast / Token Grantee project / Parth Patil.
