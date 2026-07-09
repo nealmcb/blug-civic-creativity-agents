@@ -1,0 +1,156 @@
+Civic Creativity with a Fleet of Agents
+
+Tips for the AI Age: Superpowers, Slop, and Civic Imagination
+From Boulder Community Network to a Fleet of AI Agents
+Infinite Lives, New Superpowers: Open Source Habits for the AI Age
+From the Early Web to the Agentic Web
+The Next Civic Internet: AI, Open Source, and Human Flourishing
+A Curious Human’s Guide to the AI Firehose
+Superpowers for the Civic-Minded Nerd
+Agents, Audits, and Attention: Open Source Lessons for AI
+The Web Was Practice: Now Comes AI
+Verifiability, Creativity, and the Fleet of Agents at My Door
+
+ Tips for the AI age
+
+ what to pay attention to? world moving faster and faster, so many opportunities, so much great content, overwhelmed by so so so much slop, disinformation, petty stuff
+
+ 3 decades ago: BCN - help Boulder leverage the Web: Boulder Public Library, City of Boulder, .... - part of a profound revolutions
+ Now: RMAIIG ala  Civic 
+
+ guy with adhd
+ early adopter
+ civic minded
+ curious
+
+ now have a fleet of agents working for me!
+
+   genealogy ai
+   analyze Colorado RLA, Georgia audit data, ...
+   election auditing software for clerks
+   claude for Health coaching
+   relationship coaching
+   news analysis
+   support nonprofits - Decoded Futures   cf BCN
+   make my notes more accessible
+   write a book?
+   3d printing?
+   movies
+   AI t-shirt
+
+   more lightning talks!
+   challenge folks to get ambitious, creative, put together a lightning talk
+
+   apply AI to your passion where you're a good judge
+   supplement your ability, don't replace your taste
+   note humans make mistakes, have bias, can be adversarial also
+
+   don't get too excited.  addictive - one more prompt - oura ring....
+   intelligence amplification
+
+
+ get your friends engaged - creatives, nonprofit, whatever, exploration, synthesis, out-of-the-box thinking
+   human expression
+
+my AI User Story from this morning
+
+  I, Neal McBurnett, as an AI-savvy, caring, curious human being and open source pioneer
+ want to promote models and harnesses that comply with the Open Source AI Definition or Open Science model level of the Model Openness Framework
+ so that the people and cultures and people of the world can safely flourish without being beholden by companies or governments
+
+
+ dive in with new superpowers
+ focus on the positive, while reflecting on risks
+   innovation, energy, materials, batteries, boom supersonic
+   poverty
+   mental health
+   dream of soverign agents helping humanity communicate across cultures and ideologies and find creative solutions to festering problems
+
+ listen to Possible
+    Possible - new episode this morning: Token Grantee project - Parth Patil
+       One of the creators I recently met didn't want to spend the money on a Mac mini to run his AI agent, so he ran it on his TV instead. It worked. It's a small, funny thing, but I come back to it, because of how little now stands between a person with an idea and the first version of it.
+
+    $1000/week in tokens, pick your own tool
+    access to remote agent support - hermes, openclaw
+    collaboration with Parth
+    patience in creativity: now can trade electricity for time
+
+    grantees: creatives
+     dozi anazia - security minded builder, arlington VA - spare compute into applied experiments
+     katie jang - systems-minded builder in SF, finance, crypto,
+     mathew tieman - DC - foundry logic - energy infrastructure
+   generative worlds from dr fe fe
+   gpt image 2 - AGI for images - meme creation assistant. video memes
+   mental health: principles for opportunities, cautions
+	  don't automate what shouldn't be automated - don't lose your voice on social media etc.
+ 	  supplement your ability, don't replace your taste
+
+   don't get too excited.  addictive - one more prompt - oura ring....
+   grantee went thru 20 B tokens in a weekend
+   intelligence amplification
+
+
+ fleet of agents
+   Coach Grace
+   agent learning how to improve my prompts
+   agents for
+     coding - learn my style, preferences, strengths, weaknesses
+     inquiry
+   news review
+
+  security risks => use the cloud, e.g. sprites
+    do demo
+
+ see chatgpt / claude suggestions
+
+ AI => Superpowers for ordinary humans
+   claude stuff you may have missed:
+      claude code, claude agents, /remote-control, dispatch, ....
+ Recent great Possible podcasts
+    nonprofits
+    colorado boom supersonic airplane folks
+
+ Colorado Audits
+ Open Source and AI / Mythos
+
+ Coach Grace for ADHD
+
+ mindfulness, somatic grounding
+ dance
+ call for volunteers for ?auditing? non-profits?
+
+ invoke Essence name: "The Cosmic Election-Dance Rabbi / UU Mystic of Verifiability"
+ Photos: https://photos.app.goo.gl/nohsehKu1pn56nJbj8
+
+ Decoded Futures
+
+ AI risks / opportunities / transparency / regulation
+ RMAIIG
+
+
+2026-06-19T18:08:49-0600 
+Neal's possible *lightning talks
+
+AI for open source security - the hardest fork
+  https://chatgpt.com/c/6a190af7-1c44-83ea-9fc7-de9bda038fb7
+“Neutrality and Auditability Principles for AI-Assisted OSS Vulnerability Clearinghouses.”
+
+2025-07-...
+What might neal talk about for BLUG?
+  FOKS [done]  [by who?? me???]
+  AI e.g. DeepSeek; OSAID vs MOF
+  election auditing e.g. Def Con preview; Lindell trial; CCCA provenance work
+  Rubin
+  WaterwayMaps and OpenStreetMap
+
+ Curiosity and Technology serving Community:
+  Get involved!
+  Write code to benefit science or the community
+  Get your family and friends involved in Zooniverse to look for comets
+  Learn about AI and give feedback to friends, developers, and lawmakers
+  Help me with some provenance and anonomization code
+  Join up with All of Us and/or Connect for Cancer
+
+ Open Source AI: Steering the Coming Revolution for Public Good
+ PACER, RECAP and hope for a rebirth of open law
+ Proportional Representation

@@ -1,80 +1,215 @@
 class: center, middle
 
-### MyTitles
+# Civic Creativity with a Fleet of Agents
 
-Neal McBurnett
+### Tips for the AI Age
 
-2023-03-16
-
-[Remarkjs documentation](https://remark.js.org/)
+Neal McBurnett  
+Boulder Linux Users Group  
+2026-07-09
 
 ???
-Slide notes here
-
-See also README.md
-
-Quickstart:
-
-fn=corla-evn2023  # Adjust to current directory name == slug
-
-To display, run `view-presentation`
-To make QR code:
-  echo https://bcn.boulder.co.us/~neal/talks/$fn
-  test it
-  qr-code-generator  # enter URL command line when prompted
-  add ![QR Code](qr_code.png)
-
-To make pdf, run: OPENSSL_CONF=/dev/null decktape http://localhost:8000/#1  $fn.pdf
-To publish, run: rsync -av --exclude '.git' --exclude 'neal-ignore' ../$fn bcn:public_html/elections
-To visit: google-chrome https://bcn.boulder.co.us/~neal/elections/$fn
-
-First, change the MyTitles including <meta property... in the index.html
-
-Use '?' hotkey for documentation
-
-Modify the slides.md and reload browser page
+10 minutes or less.
+Personal story + invitation, not a technical deep dive.
 
 ---
 ## Neal McBurnett
-* Consultant on Big Data, Election Integrity, Voting Methods
-* Computer Scientist, Ex-Bell Labs
-* Working on election audits and integrity since 2003
-* Poll worker
-* Pioneered RLAs for Boulder (2010) and Colorado's current state-wide audit
-* Verified Voting Board member
-* Colorado Bipartisan Election Advisory Commission member
-* Speaking for myself
 
----
-## Introduction
-* Bullets...
-
----
-## Image scaling
-Untouched image overflows to the right
-![Example Image](image.png)
-
----
-## Show scaled image via HTML img tag width="750"
-
-<img src="image.png" width="750">
-
-Perhaps works up to width=800?
-
-Also works:
-
-`convert orig.png -resize 50% smaller.png`
+* Bell Labs
+* Boulder Community Network, 1993
+* Rocky Mountain Internet Users Group
+* Election integrity / risk-limiting audits
+* Taught AI at CU in 2012
+* Open source, civic tech, curious early adopter
 
 ???
+Frame: I have lived through one “new network superpower” before.
 
 ---
-## TODO
-Tried Scaled to 50 px, from some github issue comment, but this (with leading "!") doesn't work - just get a blank screen...
+## 1993: The Web Arrives
 
-[:scale 50px](image.png)
+* Boulder Community Network
+* Helped civic and nonprofit groups get online
+  * Boulder Public Library
+  * City of Boulder
+  * watershed / environmental projects
+  * volunteer and public-service groups
+* The Web was not just tech
+* It was new civic infrastructure
 
-Perhaps I need to install a plugin or something?
+???
+The point was not HTML.
+The point was connection, publishing, discovery, coordination.
 
-How to change font size?
+---
+## 2022–2026: AI Takes Off
 
-How to add a QR code to link to the online version?
+* 2022: LLM liftoff
+* 2026: agentic action accelerates
+* Not just “ask a chatbot”
+* Agents can now:
+  * research
+  * code
+  * summarize
+  * test
+  * coach
+  * organize
+  * run in sandboxes
+
+???
+We are moving from answers to action.
+
+---
+## My AI User Story
+
+> I, Neal McBurnett, as an AI-savvy, caring, curious human being and open source pioneer,
+>
+> want to promote models and harnesses that comply with the Open Source AI Definition or Open Science model level of the Model Openness Framework,
+>
+> so that the people and cultures of the world can safely flourish without being beholden to companies or governments.
+
+???
+This is my “why.”
+
+---
+## A Fleet of Agents
+
+* Genealogy research
+* Colorado RLA analysis
+* Georgia audit data
+* Election auditing software for clerks
+* Health coaching
+* Relationship coaching
+* News analysis
+* Making my notes accessible
+* Supporting nonprofits
+* Maybe writing a book
+
+???
+Not “one AI.”
+A toolkit. A workshop. A fleet.
+
+---
+## Apply AI Where You Have Taste
+
+* Use AI on your passions
+* Use it where you are a good judge
+* Supplement your ability
+* Do not replace your taste
+* Humans make mistakes too
+* Humans also have bias
+* Humans can also be adversarial
+
+???
+AI is not magic.
+But neither are we.
+
+---
+## The Firehose
+
+* So many opportunities
+* So much great content
+* So much slop
+* Disinformation
+* Petty distraction
+* “One more prompt...”
+* Addictive loops
+
+???
+Attention is now a first-class technical and civic problem.
+
+---
+## Tips for the AI Age
+
+* Stay curious
+* Stay grounded
+* Verify important claims
+* Prefer open and inspectable tools
+* Use sandboxes
+* Keep your voice
+* Work with friends
+* Share what you learn
+
+???
+Good Linux habits still matter:
+logs, diffs, reproducibility, least privilege, transparency.
+
+---
+## Infinite Lives
+
+* Remote dev sandboxes
+* Fly.io Sprites
+* SSHFS
+* Local Claude Code editing
+* Break things safely
+* Throw the sandbox away
+* Try again
+
+???
+Possible demo if time:
+“YOLO? No — infinite lives.”
+
+---
+## Decoded Futures / Possible
+
+* Creators getting compute and agent support
+* “Trade electricity for time”
+* People with ideas can prototype faster
+* Nonprofits, artists, civic builders, security folks
+* Small teams can now attempt bigger things
+
+???
+Mention Possible podcast / Token Grantee project / Parth Patil.
+TV-as-agent anecdote if useful.
+
+---
+## Civic Creativity
+
+* Nonprofits
+* Local government
+* Election audits
+* Open law
+* Public science
+* Mental health
+* Cross-cultural communication
+* Ideological bridge-building
+
+???
+Dream: sovereign agents helping humanity communicate and solve stuck problems.
+
+---
+## Risks Worth Respecting
+
+* Security
+* Privacy
+* Dependency on big platforms
+* Misinformation
+* Loss of human voice
+* Automation of things that should not be automated
+* Concentrated power
+
+???
+Positive, but not naïve.
+
+---
+## Invitation
+
+* Pick one passion
+* Pick one tool
+* Try one ambitious experiment
+* Bring a lightning talk next time
+* Help someone civic-minded get started
+* Build things that help people flourish
+
+???
+Challenge BLUG:
+don’t just watch the AI age happen.
+
+---
+class: center, middle
+
+# Dive in with new superpowers
+
+### Keep your taste.  
+### Keep your values.  
+### Bring friends.
