@@ -207,7 +207,7 @@ This is my “why.”
 ### Keep your values.  
 ### Bring friends.
 
---
+---
 ## Slides
 http://neal.mcburnett.org/elections/blug-civic-creativity-agents/
 
