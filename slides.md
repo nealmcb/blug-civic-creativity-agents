@@ -15,20 +15,20 @@ Personal story + invitation, not a technical deep dive.
 ---
 ## Neal McBurnett
 
-* Bell Labs
-* Boulder Community Network, 1993
-* Rocky Mountain Internet Users Group
-* Election integrity / risk-limiting audits
-* Taught AI at CU in 2012
+* Got Bell Labs Denver using gcc, the web
 * Open source, civic tech, curious early adopter
+* Election integrity / risk-limiting audits
+* Taught AI for CU in 2012, 2013
 
 ???
+TODO: when for gcc?
+
 Frame: I have lived through one “new network superpower” before.
 
 ---
 ## 1993: The Web Arrives
 
-* Boulder Community Network
+* Co-founded Boulder Community Network, 1993 with Ken Klingenstein, Jim Waterman et al
 * Helped civic and nonprofit groups get online
   * Boulder Public Library
   * City of Boulder
@@ -36,56 +36,31 @@ Frame: I have lived through one “new network superpower” before.
   * volunteer and public-service groups
 * The Web was not just tech
 * It was new civic infrastructure
+* Dan Murray founds Rocky Mountain Internet Users Group
+
+## 2022: AI Takes Off...
+* Huge opportunities.
 
 ???
 The point was not HTML.
 The point was connection, publishing, discovery, coordination.
 
 ---
-## 2022–2026: AI Takes Off
-
-* 2022: LLM liftoff
-* 2026: agentic action accelerates
-* Not just “ask a chatbot”
-* Agents can now:
-  * research
-  * code
-  * summarize
-  * test
-  * coach
-  * organize
-  * run in sandboxes
-
-???
-We are moving from answers to action.
-
----
-## My AI User Story
-
-> I, Neal McBurnett, as an AI-savvy, caring, curious human being and open source pioneer,
->
-> want to promote models and harnesses that comply with the Open Source AI Definition or Open Science model level of the Model Openness Framework,
->
-> so that the people and cultures of the world can safely flourish without being beholden to companies or governments.
-
-???
-This is my “why.”
-
----
 ## A Fleet of Agents
 
-* Genealogy research
-* Colorado RLA analysis
-* Georgia audit data
+* Explaining Colorado's amazing / opaque risk-limiting election audit evidence
 * Election auditing software for clerks
-* Health coaching
-* Relationship coaching
+* Android Health exercise coaching
+* Relationship support for dates, connections, tensions
 * News analysis
-* Making my notes accessible
-* Supporting nonprofits
-* Maybe writing a book
+* Inpspring ADHD coach: back on track after a squirrel sighting
+* Genealogy research assistant for Gramps-web
+* Superpowering nonprofits
+* Write a book!
 
 ???
+and Georgia audit data
+
 Not “one AI.”
 A toolkit. A workshop. A fleet.
 
@@ -96,54 +71,50 @@ A toolkit. A workshop. A fleet.
 * Use it where you are a good judge
 * Supplement your ability
 * Do not replace your taste
-* Humans make mistakes too
-* Humans also have bias
-* Humans can also be adversarial
+* Don't expect perfection. Remember:
+  * Humans make mistakes too
+  * Humans also have bias
+  * Humans can also be jailbroken
+* => Demonstrate human "Cognitive Coverage" of risky AI output before shipping
 
 ???
 AI is not magic.
 But neither are we.
 
 ---
-## The Firehose
-
-* So many opportunities
-* So much great content
-* So much slop
-* Disinformation
-* Petty distraction
-* “One more prompt...”
-* Addictive loops
+## Maintaining Calm while Facing the Firehose
+* Find great news/info sources relevant to you, the world
+* Ignore clickbait, disinformation, petty distractions
+* Beware addictive loops around “One more prompt...”
+* Shinzen Young: Basic Mindfulness
 
 ???
+TODO: add links: shinzen, cognitive coverage, RMAIIG calendar; QR code for slides
+
 Attention is now a first-class technical and civic problem.
 
 ---
-## Tips for the AI Age
+## Truly open AI
 
-* Stay curious
-* Stay grounded
-* Verify important claims
-* Prefer open and inspectable tools
-* Use sandboxes
-* Keep your voice
-* Work with friends
-* Share what you learn
+* Mythos / Fable wake-up calls:
+  * [The hardest fork - Dan Lorenc](https://www.chainguard.dev/unchained/the-hardest-fork)
+  * securing unmaintained Critical Infrastructure
+  * Security, culture, diversity vs govt / corporate power
+* Promote open, reproducible models: Open Source AI Definition or Open Science / MOF
+  * Data, training, harnesses as well as weights
 
 ???
-Good Linux habits still matter:
-logs, diffs, reproducibility, least privilege, transparency.
+Good Linux / IETF habits still matter:
+open source, transparency, reproducibility, least privilege
 
 ---
-## Infinite Lives
+## Sandboxing for Infinite Lives
 
 * Remote dev sandboxes
 * Fly.io Sprites
-* SSHFS
-* Local Claude Code editing
-* Break things safely
-* Throw the sandbox away
-* Try again
+  * Created in seconds
+  * Cheap
+  * Break things safely
 
 ???
 Possible demo if time:
@@ -201,6 +172,11 @@ Positive, but not naïve.
 * Help someone civic-minded get started
 * Build things that help people flourish
 
+* Verify important claims
+* Keep your voice
+* Work with friends
+* Share what you learn
+
 ???
 Challenge BLUG:
 don’t just watch the AI age happen.
@@ -208,8 +184,32 @@ don’t just watch the AI age happen.
 ---
 class: center, middle
 
+---
+## My AI User Story
+
+> I, Neal McBurnett, as an AI-savvy, caring, curious human being and open source pioneer,
+>
+> want to promote models and harnesses that comply with the Open Source AI Definition or Open Science model level of the Model Openness Framework,
+>
+> so that the people and cultures of the world can safely flourish without being beholden to companies or governments.
+
+What is your AI User Story?
+
+Set your sights high
+
+???
+This is my “why.”
+
+---
 # Dive in with new superpowers
 
 ### Keep your taste.  
 ### Keep your values.  
 ### Bring friends.
+
+--
+## Slides
+http://neal.mcburnett.org/elections/blug-civic-creativity-agents/
+
+![QR Code](qr_code.png)
+## Questions?
