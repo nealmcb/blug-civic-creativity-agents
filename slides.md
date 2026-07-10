@@ -48,69 +48,15 @@ In hindsight, BCN looks like an early sketch of the civic Internet we now take f
 ## 2022: AI Takes Off...
 * Huge opportunities!
 
-* Now Claude Code and the like
+* Claude Code tips:
+  * Agents, and sub-agents, and "claude agents" orchestration, Dispatch
+  * /remote-control to connect via your cell phone
 
-* Agents, and sub-agents, and "claude agents" orchestration, Dispatch
-
-* /remote-control to connect via your cell phone
+Share yours!
 
 ???
 The point was not HTML.
 The point was connection, publishing, discovery, coordination.
-
----
-## A Fleet of Agents
-
-* Explaining Colorado's amazing / opaque risk-limiting election audit evidence
-* Election auditing transparency software for clerks
-* Android Health exercise coaching
-* Relationship support for dates, connections, tensions
-* News analysis
-* "Coach Grace" - inpspriration vs ADHD: back on track after a squirrel sighting
-* Genealogy research assistant for Gramps-web
-* Superpowering nonprofits
-* Write a book!
-
-???
-and Georgia audit data
-
-Not “one AI.”
-A toolkit. A workshop. A fleet.
-
----
-## Apply AI Where You Have Taste
-
-Augment your ability, don't replace your taste
-
-* Use AI on your passions
-* Use it where you are a good judge
-* Supplement your ability
-* Do not replace your taste
-* Don't expect perfection. Remember:
-  * Humans make mistakes too
-  * Humans also have bias
-  * Humans can also be jailbroken
-* => Demonstrate human "Cognitive Coverage" of risky AI output before shipping
-
-???
-AI is not magic.
-But neither are we.
-
----
-## Maintaining Calm while Facing the Firehose
-* Find great news/info sources relevant to you, the world
-* Ignore clickbait, disinformation, petty distractions
-* Beware addictive loops around “One more prompt...”
-* Shinzen Young: Basic Mindfulness
-
-???
- invoke Essence name: "The Cosmic Election-Dance Rabbi / UU Mystic of Verifiability"
- Photos: https://photos.app.goo.gl/nohsehKu1pn56nJbj8
-
-
-TODO: add links: shinzen, cognitive coverage, RMAIIG calendar; QR code for slides
-
-Attention is now a first-class technical and civic problem.
 
 ---
 ## Truly open AI
@@ -167,6 +113,62 @@ Tech:NYC Foundation helps AI-savvy volunteers help local nonprofits!
 ???
 Mention Possible podcast / Token Grantee project / Parth Patil.
 TV-as-agent anecdote if useful.
+
+---
+## Apply AI Ethically, Responsibly
+
+Augment your ability, don't replace your taste
+
+* Use AI on your passions
+* Use it where you are a good judge
+* Supplement your ability
+* Do not replace your taste
+* But don't expect perfection. Remember:
+  * Humans make mistakes too
+  * Humans also have bias
+  * Humans can also be jailbroken
+* => Demonstrate human "Cognitive Coverage" of risky AI output before shipping
+
+???
+AI is not magic.
+But neither are we.
+
+---
+## Maintaining Calm while Facing the Firehose
+* Find great news/info sources relevant to you, the world
+* Ignore clickbait, disinformation, petty distractions
+* Beware addictive loops around “One more prompt...”
+* Shinzen Young: Basic Mindfulness
+
+???
+ invoke Essence name: "The Cosmic Election-Dance Rabbi / UU Mystic of Verifiability"
+ Photos: https://photos.app.goo.gl/nohsehKu1pn56nJbj8
+
+
+TODO: add links: shinzen, cognitive coverage, RMAIIG calendar; QR code for slides
+
+Attention is now a first-class technical and civic problem.
+
+---
+## A Fleet of Agents
+
+Some things I've explored with the new superpowers
+
+* Explaining Colorado's amazing / opaque risk-limiting election audit evidence
+* Election auditing transparency software for clerks
+* Android Health exercise coaching
+* Relationship support for dates, connections, tensions
+* News analysis / responsible citizenship
+* "Coach Grace" - inpspriration vs ADHD: back on track after a squirrel sighting
+* Genealogy research assistant for Gramps-web
+* Superpowering nonprofits
+* Write a book? Hmmm... What book would **you** write?
+
+???
+and Georgia audit data
+
+Not “one AI.”
+A toolkit. A workshop. A fleet.
 
 ---
 ## My AI User Story
