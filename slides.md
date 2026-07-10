@@ -47,6 +47,12 @@ In hindsight, BCN looks like an early sketch of the civic Internet we now take f
 ## 2022: AI Takes Off...
 * Huge opportunities.
 
+* Now Claude Code and the like
+
+* Agents, and sub-agents, and "claude agents" orchestration, Dispatch
+
+* /remote-control to connect via your cell phone
+
 ???
 The point was not HTML.
 The point was connection, publishing, discovery, coordination.
@@ -55,11 +61,11 @@ The point was connection, publishing, discovery, coordination.
 ## A Fleet of Agents
 
 * Explaining Colorado's amazing / opaque risk-limiting election audit evidence
-* Election auditing software for clerks
+* Election auditing transparency software for clerks
 * Android Health exercise coaching
 * Relationship support for dates, connections, tensions
 * News analysis
-* Inpspring ADHD coach: back on track after a squirrel sighting
+* "Coach Grace" - inpspriration vs ADHD: back on track after a squirrel sighting
 * Genealogy research assistant for Gramps-web
 * Superpowering nonprofits
 * Write a book!
@@ -72,6 +78,8 @@ A toolkit. A workshop. A fleet.
 
 ---
 ## Apply AI Where You Have Taste
+
+Augment your ability, don't replace your taste
 
 * Use AI on your passions
 * Use it where you are a good judge
@@ -95,6 +103,10 @@ But neither are we.
 * Shinzen Young: Basic Mindfulness
 
 ???
+ invoke Essence name: "The Cosmic Election-Dance Rabbi / UU Mystic of Verifiability"
+ Photos: https://photos.app.goo.gl/nohsehKu1pn56nJbj8
+
+
 TODO: add links: shinzen, cognitive coverage, RMAIIG calendar; QR code for slides
 
 Attention is now a first-class technical and civic problem.
@@ -129,11 +141,14 @@ Possible demo if time:
 ---
 ## Possible podcast - Reid Hoffman
 
-Educational!
+Educational! Fun! Inspiring!
 
-Fun!
+* Focus on the positive, while reflecting on risks
+  * Innovation, energy, materials, batteries, Boom supersonic planes
+  * Mental health
+  * Dream of soverign agents helping humanity communicate across cultures and ideologies and find creative solutions to festering problems
 
-Inspiring!
+Token Grantee project - Parth Patil
 
 ---
 ## Decoded Futures
