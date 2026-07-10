@@ -16,24 +16,25 @@ Personal story + invitation, not a technical deep dive.
 ## Neal McBurnett
 
 * Open source, curious early adopter, civic tech
-* Got Bell Labs Denver using gcc when copyleft was scary
+* Got Bell Labs Denver using gcc - lawyers scared of copyleft
 * Election integrity / risk-limiting audit pioneer
 * Taught AI for CU in 2012, 2013
+* Favorite color: purple
 
 ???
 TODO: when for gcc?
 
-Frame: I have lived through one “new network superpower” before.
+Frame: I have lived through one “new superpower” before.
 
 ---
 ## My last rodeo: 1993: The Web Arrives
 
 * Co-founded Boulder Community Network, 1993 with Ken Klingenstein, Jim Waterman et al
-* Helped civic and nonprofit groups get online
+* The second Community Network, hosting
   * Boulder Public Library
   * City of Boulder
-  * watershed / environmental projects
-  * volunteer and public-service groups
+  * BASIN: watershed project
+  * Dozens of nonprofits and volunteers
 * The Web was not just tech
 * It was new civic infrastructure
 * Dan Murray founds Rocky Mountain Internet Users Group
@@ -48,8 +49,10 @@ In hindsight, BCN looks like an early sketch of the civic Internet we now take f
 ## 2022: AI Takes Off...
 * Huge opportunities!
 
-* Claude Code tips:
-  * Agents, and sub-agents, and "claude agents" orchestration, Dispatch
+* Claude Code is my current favorite
+* Recent tips:
+  * Agents, and sub-agents
+  * "claude agents" orchestration, Dispatch
   * /remote-control to connect via your cell phone
 
 Share yours!
@@ -65,8 +68,10 @@ The point was connection, publishing, discovery, coordination.
   * [The hardest fork - Dan Lorenc](https://www.chainguard.dev/unchained/the-hardest-fork)
   * securing unmaintained Critical Infrastructure
   * Security, culture, diversity vs govt / corporate power
-* Promote open, reproducible models: Open Source AI Definition or Open Science / MOF
-  * Data, training, harnesses as well as weights
+* AI ecosystem has its own supply chain risks, unpredictable costs etc.
+* => Promote open, reproducible models: Open Source AI Definition or Open Science / MOF
+  * More than open weights
+  * Data, training, harnesses
 
 ???
 Good Linux / IETF habits still matter:
@@ -91,16 +96,19 @@ Possible demo if time:
 Educational! Fun! Inspiring!
 
 * Focus on the positive, while reflecting on risks
-  * Innovation, energy, materials, batteries, Boom supersonic planes
+  * Innovation, cheap energy, new materials, batteries, Boom supersonic planes, ...
   * Mental health
   * Dream of soverign agents helping humanity communicate across cultures and ideologies and find creative solutions to festering problems
 
-Token Grantee project - Parth Patil
+* Token Grantee project - Parth Patil
+  * $1000 in tokens every month to grantees, plus support
 
 ---
 ## Decoded Futures
 
 Tech:NYC Foundation helps AI-savvy volunteers help local nonprofits!
+
+2026-04 kickoff of Denver cohort for 2 months
 
 * [Decoded Futures](https://www.decodedfutures.nyc/)
 * Slide decks:
@@ -111,7 +119,6 @@ Tech:NYC Foundation helps AI-savvy volunteers help local nonprofits!
 
 
 ???
-Mention Possible podcast / Token Grantee project / Parth Patil.
 TV-as-agent anecdote if useful.
 
 ---
