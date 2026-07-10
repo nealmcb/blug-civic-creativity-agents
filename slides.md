@@ -15,9 +15,9 @@ Personal story + invitation, not a technical deep dive.
 ---
 ## Neal McBurnett
 
-* Got Bell Labs Denver using gcc, the web
-* Open source, civic tech, curious early adopter
-* Election integrity / risk-limiting audits
+* Open source, curious early adopter, civic tech
+* Got Bell Labs Denver using gcc when copyleft was scary
+* Election integrity / risk-limiting audit pioneer
 * Taught AI for CU in 2012, 2013
 
 ???
@@ -26,7 +26,7 @@ TODO: when for gcc?
 Frame: I have lived through one “new network superpower” before.
 
 ---
-## 1993: The Web Arrives
+## My last rodeo: 1993: The Web Arrives
 
 * Co-founded Boulder Community Network, 1993 with Ken Klingenstein, Jim Waterman et al
 * Helped civic and nonprofit groups get online
@@ -44,8 +44,9 @@ Back in 1993, the World Wide Web was still shiny and new. Most people had never 
 In hindsight, BCN looks like an early sketch of the civic Internet we now take for granted. It helped Boulder learn that the Web was not just for universities and companies. It could be public infrastructure: a place where local knowledge, local government, local nonprofits, and local people could meet.
 
 
+---
 ## 2022: AI Takes Off...
-* Huge opportunities.
+* Huge opportunities!
 
 * Now Claude Code and the like
 
