@@ -153,33 +153,22 @@ Mention Possible podcast / Token Grantee project / Parth Patil.
 TV-as-agent anecdote if useful.
 
 ---
-## Civic Creativity
+## My AI User Story
 
-* Nonprofits
-* Local government
-* Election audits
-* Open law
-* Public science
-* Mental health
-* Cross-cultural communication
-* Ideological bridge-building
+> I, Neal McBurnett, as an AI-savvy, caring, curious human being and open source pioneer,
+>
+> want to promote models and harnesses that comply with the Open Source AI Definition or Open Science model level of the Model Openness Framework,
+>
+> so that the people and cultures of the world can safely flourish without being beholden to companies or governments.
 
-???
-Dream: sovereign agents helping humanity communicate and solve stuck problems.
+What is your AI User Story?
 
----
-## Risks Worth Respecting
+Set your sights high
 
-* Security
-* Privacy
-* Dependency on big platforms
-* Misinformation
-* Loss of human voice
-* Automation of things that should not be automated
-* Concentrated power
+Dive in with new superpowers
 
 ???
-Positive, but not naïve.
+This is my “why.”
 
 ---
 ## Invitation
@@ -199,27 +188,6 @@ Positive, but not naïve.
 ???
 Challenge BLUG:
 don’t just watch the AI age happen.
-
----
-class: center, middle
-
----
-## My AI User Story
-
-> I, Neal McBurnett, as an AI-savvy, caring, curious human being and open source pioneer,
->
-> want to promote models and harnesses that comply with the Open Source AI Definition or Open Science model level of the Model Openness Framework,
->
-> so that the people and cultures of the world can safely flourish without being beholden to companies or governments.
-
-What is your AI User Story?
-
-Set your sights high
-
-Dive in with new superpowers
-
-???
-This is my “why.”
 
 ---
 ## Slides
