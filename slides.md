@@ -98,7 +98,7 @@ Educational! Fun! Inspiring!
 * Focus on the positive, while reflecting on risks
   * Innovation, cheap energy, new materials, batteries, Boom supersonic planes, ...
   * Mental health
-  * Dream of soverign agents helping humanity communicate across cultures and ideologies and find creative solutions to festering problems
+  * Dream of sovereign agents helping humanity communicate across cultures and ideologies and find creative solutions to festering problems
 
 * Token Grantee project - Parth Patil
   * $1000 in tokens every month to grantees, plus support
@@ -166,7 +166,7 @@ Some things I've explored with the new superpowers
 * Android Health exercise coaching
 * Relationship support for dates, connections, tensions
 * News analysis / responsible citizenship
-* "Coach Grace" - inpspriration vs ADHD: back on track after a squirrel sighting
+* "Coach Grace" - inspiration vs ADHD: back on track after a squirrel sighting
 * Genealogy research assistant for Gramps-web
 * Superpowering nonprofits
 * Write a book? Hmmm... What book would **you** write?
